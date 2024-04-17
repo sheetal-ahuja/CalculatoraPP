@@ -22,4 +22,4 @@ Dive into the world of seamless calculations by following these simple steps:
 1. **Clone this repository:**
 
 ```bash
-git clone https://github.com/sheetal-ahuja/Flutter-projects/tree/cbf0ddddbfeaea2f2753610a32345cb72c2d5e1d/CalculatorApp
+git clone https://github.com/sheetal-ahuja/CalculatoraPP/blob/597dc873518a264ad3f57724064d1550046d6dbb/Calculator_screen.dart
