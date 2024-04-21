@@ -1,6 +1,11 @@
 # CalculatorApp 📱
 
 Welcome to **CalculatorApp**, where simplicity meets elegance. Designed with precision and user-friendliness in mind, this app brings the essential functionality of a calculator to your fingertips. Whether you're splitting bills, calculating taxes, or just doing some quick math, CalculatorApp has got you covered.
+##
+<p align="center">
+  <img src="calculatorapp.gif" width="200"/>
+</p>
+
 
 ## Features 🌟
 
@@ -23,3 +28,4 @@ Dive into the world of seamless calculations by following these simple steps:
 
 ```bash
 git clone https://github.com/sheetal-ahuja/Flutter-projects/tree/cbf0ddddbfeaea2f2753610a32345cb72c2d5e1d/CalculatorApp
+
